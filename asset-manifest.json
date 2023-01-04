@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FilmEmpire/static/css/main.334bdeb1.css",
+    "main.js": "/FilmEmpire/static/js/main.dd777cba.js",
+    "index.html": "/FilmEmpire/index.html",
+    "static/media/search.svg": "/FilmEmpire/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/FilmEmpire/static/css/main.334bdeb1.css.map",
+    "main.dd777cba.js.map": "/FilmEmpire/static/js/main.dd777cba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.dd777cba.js"
+  ]
+}
